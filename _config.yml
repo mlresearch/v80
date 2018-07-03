@@ -22,7 +22,7 @@ editor:
 title: Proceedings of Machine Learning Research
 description: |
   Proceedings of the 35th International Conference on Machine Learning
-    Held in Stockholmsm\"assan, Stockholm Sweden on 10-15 July 2018
+    Held in Stockholmsmässan, Stockholm Sweden on 10-15 July 2018
 
   Published as Volume 80 by the Proceedings of Machine Learning Research on 03 July 2018.
 
@@ -52,7 +52,7 @@ email: ''
 conference:
   name: International Conference on Machine Learning
   url: 
-  location: Stockholmsm\"assan, Stockholm Sweden
+  location: Stockholmsmässan, Stockholm Sweden
   dates:
   - 2018-07-10
   - 2018-07-11
