@@ -46,7 +46,7 @@ author:
 - given: Diederik
   family: Roijers
 - given: Ann
-  family: Now{é}
+  family: Nowé
 - given: Hado
   family: Hasselt
 date: 2018-07-03
