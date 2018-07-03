@@ -1,5 +1,5 @@
 ---
-title: "{N}et{GAN}: Generating Graphs via Random Walks"
+title: "NetGAN: Generating Graphs via Random Walks"
 booktitle: Proceedings of the 35th International Conference on Machine Learning
 year: '2018'
 volume: '80'
@@ -41,9 +41,9 @@ author:
 - given: Oleksandr
   family: Shchur
 - given: Daniel
-  family: Z{ü}gner
+  family: Zügner
 - given: Stephan
-  family: G{ü}nnemann
+  family: Günnemann
 date: 2018-07-03
 container-title: Proceedings of the 35th International Conference on Machine Learning
 genre: inproceedings
