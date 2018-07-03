@@ -1,0 +1,7 @@
+<table>
+  <tr>
+    <td><div class="codebox" >
+	<pre><code id="{{ button_name | downcase }}">{{ filetext }}</code></pre></div></td>
+    <td><button id="button-{{ button_name | downcase }}1" onclick="CopyToClipboard('{{ button_name | downcase }}')">Copy {{ button_name }}</button></td><td><button id="button-{{ button_name | downcase }}2" onclick="DownloadToFile('{{ id }}.{{ filetype }}', '{{ button_name | downcase }}')">Download {{ button_name }}</button></td>
+  </tr>
+</table>
