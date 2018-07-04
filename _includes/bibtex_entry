@@ -14,5 +14,5 @@
   publisher = 	 {PMLR},
   pdf = 	 {{o}}{{ page.pdf }}{{c}},
   url = 	 {{o}}{{site.url}}{{site.baseurl}}{{ page.url }}{{c}},
-  abstract = 	 {{o}}{{ page.abstract | replace: "<em>", "\emph{" | replace: "</em>", closebrace | replace: '&gt;', '>' | replace: '&lt;', '<' }}{{c}}
+  abstract = 	 {{o}}{{ page.abstract | replace: "<em>", "\emph{" | replace: "</em>", closebrace | replace: '<b>', '\textbf{' | replace: '</b>', closebrace | replace: '&gt;', '>' | replace: '&lt;', '<' }}{{c}}
 {{c}}
