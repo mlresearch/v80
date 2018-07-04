@@ -1,5 +1,5 @@
 ---
-title: Inductive Two-layer Modeling with Parametric {B}regman Transfer
+title: Inductive Two-layer Modeling with Parametric Bregman Transfer
 booktitle: Proceedings of the 35th International Conference on Machine Learning
 year: '2018'
 volume: '80'

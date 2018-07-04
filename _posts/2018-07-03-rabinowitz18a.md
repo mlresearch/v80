@@ -11,10 +11,10 @@ pdf: http://proceedings.mlr.press/v80/rabinowitz18a/rabinowitz18a.pdf
 url: http://proceedings.mlr.press/v80/rabinowitz2018a.html
 abstract: Theory of mind (ToM) broadly refers to humans’ ability to represent the
   mental states of others, including their desires, beliefs, and intentions. We design
-  a Theory of Mind neural network {–} a ToMnet {–} which uses meta-learning to build
-  such models of the agents it encounters. The ToMnet learns a strong prior model
-  for agents’ future behaviour, and, using only a small number of behavioural observations,
-  can bootstrap to richer predictions about agents’ characteristics and mental states.
+  a Theory of Mind neural network – a ToMnet – which uses meta-learning to build such
+  models of the agents it encounters. The ToMnet learns a strong prior model for agents’
+  future behaviour, and, using only a small number of behavioural observations, can
+  bootstrap to richer predictions about agents’ characteristics and mental states.
   We apply the ToMnet to agents behaving in simple gridworld environments, showing
   that it learns to model random, algorithmic, and deep RL agents from varied populations,
   and that it passes classic ToM tasks such as the "Sally-Anne" test of recognising

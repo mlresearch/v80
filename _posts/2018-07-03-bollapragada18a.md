@@ -1,5 +1,5 @@
 ---
-title: A Progressive Batching L-{BFGS} Method for Machine Learning
+title: A Progressive Batching L-BFGS Method for Machine Learning
 booktitle: Proceedings of the 35th International Conference on Machine Learning
 year: '2018'
 volume: '80'

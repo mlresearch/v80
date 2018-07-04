@@ -1,5 +1,5 @@
 ---
-title: Learning Representations and Generative Models for 3{D} Point Clouds
+title: Learning Representations and Generative Models for 3D Point Clouds
 booktitle: Proceedings of the 35th International Conference on Machine Learning
 year: '2018'
 volume: '80'

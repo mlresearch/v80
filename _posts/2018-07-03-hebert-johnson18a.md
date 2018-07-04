@@ -1,5 +1,5 @@
 ---
-title: 'Multicalibration: Calibration for the ({C}omputationally-Identifiable) Masses'
+title: 'Multicalibration: Calibration for the (Computationally-Identifiable) Masses'
 booktitle: Proceedings of the 35th International Conference on Machine Learning
 year: '2018'
 volume: '80'

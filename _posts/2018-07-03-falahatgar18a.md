@@ -15,8 +15,8 @@ abstract: 'We present a comprehensive understanding of three important problemsi
   Transitivity, we show thatmaxing requires $Ω(n^2)$ comparisons and with slightly
   morerestrictive Medium Stochastic Transitivity, we present a linearcomplexity maxing
   algorithm. With Strong Stochastic Transitivity andStochastic Triangle Inequality,
-  we derive a ranking algorithm withoptimal $\mathcal{O}(n\log n)$ complexity and
-  an optimal algorithmthat estimates all pairwise preference probabilities.'
+  we derive a ranking algorithm withoptimal $\mathcalO(n\log n)$ complexity and an
+  optimal algorithmthat estimates all pairwise preference probabilities.'
 layout: inproceedings
 id: falahatgar18a
 tex_title: The Limits of Maxing, Ranking, and Preference Learning

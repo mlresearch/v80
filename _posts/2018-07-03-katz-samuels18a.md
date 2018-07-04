@@ -11,7 +11,7 @@ pdf: http://proceedings.mlr.press/v80/katz-samuels18a/katz-samuels18a.pdf
 url: http://proceedings.mlr.press/v80/katz-samuels2018a.html
 abstract: 'We introduce the feasible arm identification problem, a pure exploration
   multi-armed bandit problem where the agent is given a set of $D$-dimensional arms
-  and a polyhedron $P = \{x : A x ≤b \} ⊂R^D$. Pulling an arm gives a random vector
+  and a polyhedron $P = {x : A x ≤b } ⊂R^D$. Pulling an arm gives a random vector
   and the goal is to determine, using a fixed budget of $T$ pulls, which of the arms
   have means belonging to $P$. We propose three algorithms MD-UCBE, MD-SAR, and MD-APT
   and provide a unified analysis establishing upper bounds for each of them. We also

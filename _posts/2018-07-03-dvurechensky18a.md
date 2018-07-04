@@ -13,16 +13,15 @@ url: http://proceedings.mlr.press/v80/dvurechensky2018a.html
 abstract: We analyze two algorithms for approximating the general optimal transport
   (OT) distance between two discrete distributions of size $n$, up to accuracy $\varepsilon$.
   For the first algorithm, which is based on the celebrated Sinkhorn’s algorithm,
-  we prove the complexity bound $\widetilde{O}\left(\frac{n^2}{\varepsilon^2}\right)$
-  arithmetic operations ($\widetilde{O}$ hides polylogarithmic factors $(\ln n)^c$,
-  $c>0$). For the second one, which is based on our novel Adaptive Primal-Dual Accelerated
-  Gradient Descent (APDAGD) algorithm, we prove the complexity bound $\widetilde{O}\left(\min\left\{\frac{n^{9/4}}{\varepsilon},
-  \frac{n^{2}}{\varepsilon^2} \right\}\right)$ arithmetic operations. Both bounds
-  have better dependence on $\varepsilon$ than the state-of-the-art result given by
-  $\widetilde{O}\left(\frac{n^2}{\varepsilon^3}\right)$. Our second algorithm not
-  only has better dependence on $\varepsilon$ in the complexity bound, but also is
-  not specific to entropic regularization and can solve the OT problem with different
-  regularizers.
+  we prove the complexity bound $\widetildeO\left(\fracn^2\varepsilon^2\right)$ arithmetic
+  operations ($\widetildeO$ hides polylogarithmic factors $(\ln n)^c$, $c>0$). For
+  the second one, which is based on our novel Adaptive Primal-Dual Accelerated Gradient
+  Descent (APDAGD) algorithm, we prove the complexity bound $\widetildeO\left(\min\left{\fracn^9/4\varepsilon,
+  \fracn^2\varepsilon^2 \right}\right)$ arithmetic operations. Both bounds have better
+  dependence on $\varepsilon$ than the state-of-the-art result given by $\widetildeO\left(\fracn^2\varepsilon^3\right)$.
+  Our second algorithm not only has better dependence on $\varepsilon$ in the complexity
+  bound, but also is not specific to entropic regularization and can solve the OT
+  problem with different regularizers.
 layout: inproceedings
 id: dvurechensky18a
 tex_title: 'Computational Optimal Transport: Complexity by Accelerated Gradient Descent

@@ -40,7 +40,7 @@ author:
   family: Mishchenko
 - given: Franck
   family: Iutzeler
-- given: J{é}r{ô}me
+- given: Jérôme
   family: Malick
 - given: Massih-Reza
   family: Amini

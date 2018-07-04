@@ -1,5 +1,5 @@
 ---
-title: Asynchronous {B}yzantine Machine Learning (the case of {SGD})
+title: Asynchronous Byzantine Machine Learning (the case of SGD)
 booktitle: Proceedings of the 35th International Conference on Machine Learning
 year: '2018'
 volume: '80'

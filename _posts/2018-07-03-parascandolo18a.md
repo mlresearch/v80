@@ -46,7 +46,7 @@ author:
 - given: Mateo
   family: Rojas-Carulla
 - given: Bernhard
-  family: Sch{ö}lkopf
+  family: Schölkopf
 date: 2018-07-03
 container-title: Proceedings of the 35th International Conference on Machine Learning
 genre: inproceedings

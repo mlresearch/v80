@@ -41,7 +41,7 @@ author:
 - given: Adil El
   family: Mesaoudi-Paul
 - given: Eyke
-  family: H{ü}llermeier
+  family: Hüllermeier
 - given: Robert
   family: Busa-Fekete
 date: 2018-07-03

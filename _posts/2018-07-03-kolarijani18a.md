@@ -18,8 +18,8 @@ abstract: Ordinary differential equations, and in general a dynamical system vie
   is a state-dependent, time-invariant damping term that acts as a feedback control
   input. Given a user-defined scalar $α$, it is shown that the proposed control input
   steers the state trajectories to the global optimizer of a desired objective function
-  with a guaranteed rate of convergence $\mathcal{O}(e^{-αt})$. Our framework requires
-  that the objective function satisfies the so called Polyak–{Ł}ojasiewicz inequality.
+  with a guaranteed rate of convergence $\mathcalO(e^-αt)$. Our framework requires
+  that the objective function satisfies the so called Polyak–Łojasiewicz inequality.
   Furthermore, a discretization method is introduced such that the resulting discrete
   dynamical system possesses an exponential rate of convergence.
 layout: inproceedings
