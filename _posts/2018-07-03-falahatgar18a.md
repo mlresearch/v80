@@ -12,7 +12,7 @@ url: http://proceedings.mlr.press/v80/falahatgar2018a.html
 abstract: 'We present a comprehensive understanding of three important problemsin
   PAC preference learning: maximum selection (maxing), ranking, andestimating <em>all</em>
   pairwise preference probabilities, in theadaptive setting. With just Weak Stochastic
-  Transitivity, we show thatmaxing requires $Ω(n^2)$ comparisons and with slightly
+  Transitivity, we show thatmaxing requires $\Omega(n^2)$ comparisons and with slightly
   morerestrictive Medium Stochastic Transitivity, we present a linearcomplexity maxing
   algorithm. With Strong Stochastic Transitivity andStochastic Triangle Inequality,
   we derive a ranking algorithm withoptimal $\mathcal{O}(n\log n)$ complexity and
