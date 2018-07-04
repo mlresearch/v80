@@ -16,4 +16,4 @@
 %V {{ site.volume }}{% if page.number %}
 %N {{ page.number }}{% endif %}
 %W PMLR
-%X {{ page.abstract | replace: '<em>', '' | replace: '</em>', '' | replace: '<b>', '' | replace: '</b>', '' | replace: '&gt;', '>' | replace: '&lt;', '<' }}
+%X {{ page.abstract | replace: '<ol>', '' | replace: '</ol>', '' | replace: '<ul>', '' | replace: '</ul>', '' | replace: '<li>', '' | replace: '</li>', '' | replace: '<em>', '' | replace: '</em>', '' | replace: '<b>', '' | replace: '</b>', '' | replace: '&gt;', '>' | replace: '&lt;', '<' }}
