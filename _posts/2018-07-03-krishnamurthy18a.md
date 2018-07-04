@@ -12,10 +12,10 @@ url: http://proceedings.mlr.press/v80/krishnamurthy2018a.html
 abstract: This paper studies semiparametric contextual bandits, a generalization of
   the linear stochastic bandit problem where the reward for a chosen action is modeled
   as a linear function of known action features confounded by a non-linear action-independent
-  term. We design new algorithms that achieve $\tildeO(d\sqrtT)$ regret over $T$ rounds,
-  when the linear function is $d$-dimensional, which matches the best known bounds
-  for the simpler unconfounded case and improves on a recent result of Greenwald et
-  al. (2017). Via an empirical evaluation, we show that our algorithms outperform
+  term. We design new algorithms that achieve $\tilde{O}(d\sqrt{T})$ regret over $T$
+  rounds, when the linear function is $d$-dimensional, which matches the best known
+  bounds for the simpler unconfounded case and improves on a recent result of Greenwald
+  et al. (2017). Via an empirical evaluation, we show that our algorithms outperform
   prior approaches when there are non-linear confounding effects on the rewards. Technically,
   our algorithms use a new reward estimator inspired by doubly-robust approaches and
   our proofs require new concentration inequalities for self-normalized martingales.
