@@ -6,7 +6,6 @@ volume: 80
 start: 2018-07-10
 end: 2018-07-15
 published: 2018-07-03
-url: http://proceedings.mlr.press
 conference_number: '35'
 layout: proceedings
 series: Proceedings of Machine Learning Research
@@ -34,6 +33,7 @@ description: |
     Neil D. Lawrence
     Mark Reid
 date_str: 10--15 Jul
+url: http://proceedings.mlr.press
 baseurl: "/v80"
 twitter_username: MLResearchPress
 github_username: mlresearch
@@ -51,8 +51,8 @@ display:
 email: ''
 conference:
   name: International Conference on Machine Learning
-  url: 
-  location: Stockholmsm\"assan, Stockholm Sweden
+  url: https://icml.cc/
+  location: Stockholmsmässan, Stockholm Sweden
   dates:
   - 2018-07-10
   - 2018-07-11
