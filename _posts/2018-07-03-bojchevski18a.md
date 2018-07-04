@@ -1,9 +1,5 @@
 ---
-<<<<<<< HEAD
 title: 'NetGAN: Generating Graphs via Random Walks'
-=======
-title: "NetGAN: Generating Graphs via Random Walks"
->>>>>>> 582a0e6da36c45ac17835e9a38179d11030de2a2
 booktitle: Proceedings of the 35th International Conference on Machine Learning
 year: '2018'
 volume: '80'
