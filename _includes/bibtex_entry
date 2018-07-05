@@ -9,7 +9,7 @@
   booktitle = 	 {{o}}{{ page.container-title }}{{c}},
   pages = 	 {{o}}{{ page.firstpage }}--{{ page.lastpage }}{{c}},
   year = 	 {{o}}{{ site.published | date: "%Y" }}{{c}},
-  editor = 	 {{o}}{% assign lastone = site.editor.last %}{% for person in site.editor %}{{ person.given }} {{ person.family }}{% unless person == lastone %} and {%endunless %}{% endfor %}{{c}},
+  editor = 	 {{o}}{{ site.bibtex_editor }}{{c}},
   volume = 	 {{o}}{{ site.volume }}{{c}},{% if page.number %}
   number =       {{o}}{{ page.number }}{{c}},{% endif %}
   series = 	 {Proceedings of Machine Learning Research},
