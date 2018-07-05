@@ -1,4 +1,8 @@
 {% assign closebrace = '}' %}
+{% assign beginenumerate = '\begin{enumerate}' %}
+{% assign endenumerate = '\end{enumerate}' %}
+{% assign beginitemize = '\begin{itemize}' %}
+{% assign enditemize = '\end{itemize}' %}
 @InProceedings{{o}}{{ id }},
   title = 	 {{o}}{{ page.tex_title }}{{c}},
   author = 	 {{o}}{{ page.bibtex_author }}{{c}},
@@ -14,5 +18,5 @@
   publisher = 	 {PMLR},
   pdf = 	 {{o}}{{ page.pdf }}{{c}},
   url = 	 {{o}}{{site.url}}{{site.baseurl}}{{ page.url }}{{c}},
-  abstract = 	 {{o}}{{ page.abstract | replace: "<em>", "\emph{" | replace: "</em>", closebrace | replace: '<b>', "\textbf{" | replace: '</b>', closebrace | replace: '<ol>', "\begin{enumerate}" | replace: '</ol>', "\end{enumerate}" | replace: "\begin{itemize}", '' | replace: "\end{itemize}", '' | replace: '\item ', '' | replace: '</li>', '' | replace: '&gt;', '>' | replace: '&lt;', '<' }}{{c}}
+  abstract = 	 {{o}}{{ page.abstract | replace: "<em>", "\emph{" | replace: "</em>", closebrace | replace: '<b>', "\textbf{" | replace: '</b>', closebrace | replace: '<ol>', beginenumerate | replace: '</ol>', endenumerate | replace: "<ul>", beginitemize | replace: "</ul>", enditemize | replace: '\item ', '' | replace: '</li>', '' | replace: '&gt;', '>' | replace: '&lt;', '<' }}{{c}}
 {{c}}

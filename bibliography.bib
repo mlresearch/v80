@@ -13,7 +13,7 @@ layout: null
   series =    {Proceedings of Machine Learning Research},
   volume =    {{ site.volume }}
 {{c}}
-{% assign sorted = (site.posts | sort: 'order') %}
+{% assign sorted = site.posts | sort: 'order' %}
 {% for page in sorted %}
 {% capture id %}{{ page.id | remove_first: '/' }}{% endcapture %}
 {% include bibtex_entry %}

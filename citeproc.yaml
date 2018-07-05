@@ -1,7 +1,7 @@
 ---
 layout: null
 ---
-{% assign sorted = (site.posts | sort: 'order') %}{% for post in sorted %}{% capture id %}{{ post.id | remove_first: '/' }}{% endcapture %}
+{% assign sorted = site.posts | sort: 'order' %}{% for post in sorted %}{% capture id %}{{ post.id | remove_first: '/' }}{% endcapture %}
 - title: '{{ post.title | replace: "'", "''" }}'{% if post.abstract %}
   abstract: '{{ post.abstract | replace: "'", "''"}}'{% endif %}
   volume: {{ post.volume }}
