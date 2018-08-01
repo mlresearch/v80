@@ -1,8 +1,23 @@
 {% assign closebrace = '}' %}
-{% assign beginenumerate = '\begin{enumerate}' %}
-{% assign endenumerate = '\end{enumerate}' %}
-{% assign beginitemize = '\begin{itemize}' %}
-{% assign enditemize = '\end{itemize}' %}
+{% capture beginenumerate %}
+
+\begin{enumerate}
+{% endcapture %}
+{% capture endenumerate %}
+\end{enumerate}
+
+{% endcapture %}
+{% capture beginitemize %}
+
+\begin{itemize}
+{% endcapture %}
+{% capture enditemize %}
+\end{itemize}
+
+{% endcapture %}
+{% capture item %}
+\item
+{% endcapture %}
 @InProceedings{{o}}{{ id }},
   title = 	 {{o}}{{ page.tex_title }}{{c}},
   author = 	 {{o}}{{ page.bibtex_author }}{{c}},
@@ -18,5 +33,5 @@
   publisher = 	 {PMLR},
   pdf = 	 {{o}}{{ page.pdf }}{{c}},
   url = 	 {{o}}{{site.url}}{{site.baseurl}}{{ page.url }}{{c}},
-  abstract = 	 {{o}}{{ page.abstract | replace: "<em>", "\emph{" | replace: "</em>", closebrace | replace: '<b>', "\textbf{" | replace: '</b>', closebrace | replace: '<ol>', beginenumerate | replace: '</ol>', endenumerate | replace: "<ul>", beginitemize | replace: "</ul>", enditemize | replace: '\item ', '' | replace: '</li>', '' | replace: '&gt;', '>' | replace: '&lt;', '<' }}{{c}}
+  abstract = 	 {{o}}{{ page.abstract | replace: "<em>", "\emph{" | replace: "</em>", closebrace | replace: '<b>', "\textbf{" | replace: '</b>', closebrace | replace: '<ol>', beginenumerate | replace: '</ol>', endenumerate | replace: '<ul>', beginitemize | replace: '</ul>', enditemize | replace: '<li>', '\item ' | replace: '</li>', '' | replace: '&gt;', '>' | replace: '&lt;', '<' }}{{c}}
 {{c}}
