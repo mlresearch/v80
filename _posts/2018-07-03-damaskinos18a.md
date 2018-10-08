@@ -49,8 +49,8 @@ bibtex_author: Damaskinos, Georgios and Mhamdi, El Mahdi El and Guerraoui, Rachi
 author:
 - given: Georgios
   family: Damaskinos
-- given: El Mahdi El
-  family: Mhamdi
+- given: El Mahdi
+  family: El Mhamdi
 - given: Rachid
   family: Guerraoui
 - given: Rhicheek
