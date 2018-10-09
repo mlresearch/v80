@@ -24,8 +24,7 @@ id: balestriero18a
 tex_title: Spline Filters For End-to-End Deep Learning
 firstpage: 364
 lastpage: 373
-page: 364-373
-order: 364
+ 
 cycles: false
 bibtex_editor: Dy, Jennifer and Krause, Andreas
 editor:
