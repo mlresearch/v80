@@ -44,7 +44,7 @@ editor:
   family: Dy
 - given: Andreas
   family: Krause
-bibtex_author: Damaskinos, Georgios and Mhamdi, El Mahdi El and Guerraoui, Rachid
+bibtex_author: Damaskinos, Georgios and El Mhamdi, El Mahdi and Guerraoui, Rachid
   and Patra, Rhicheek and Taziki, Mahsa
 author:
 - given: Georgios
