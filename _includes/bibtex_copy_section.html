@@ -1,9 +1,0 @@
-{% if site.display.copy_button.bibtex %}
-{% assign o = '{' %}
-{% assign c = '}' %}
-{% capture filetext %}{% include bibtex_entry %}{% endcapture %}
-{% assign filetype = 'bib' %}
-{% assign button_name = 'BibTeX' %}
-{% include copy_buttons.html %}
-{% endif %}    
-
