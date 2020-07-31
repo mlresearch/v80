@@ -22,10 +22,10 @@ abstract: Theory of mind (ToM) broadly refers to humans’ ability to represent 
 layout: inproceedings
 id: rabinowitz18a
 tex_title: Machine Theory of Mind
-firstpage: 4215
-lastpage: 4224
-page: 4215-4224
-order: 4215
+firstpage: 4218
+lastpage: 4227
+page: 4218-4227
+order: 4218
 cycles: false
 bibtex_editor: Dy, Jennifer and Krause, Andreas
 editor:

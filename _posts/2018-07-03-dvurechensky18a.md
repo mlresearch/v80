@@ -27,10 +27,10 @@ layout: inproceedings
 id: dvurechensky18a
 tex_title: 'Computational Optimal Transport: Complexity by Accelerated Gradient Descent
   Is Better Than by Sinkhorn’s Algorithm'
-firstpage: 1366
-lastpage: 1375
-page: 1366-1375
-order: 1366
+firstpage: 1367
+lastpage: 1376
+page: 1367-1376
+order: 1367
 cycles: false
 bibtex_editor: Dy, Jennifer and Krause, Andreas
 editor:

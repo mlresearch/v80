@@ -25,10 +25,10 @@ abstract: We propose a new statistical model for ranking data, i.e., a new famil
 layout: inproceedings
 id: mesaoudi-paul18a
 tex_title: Ranking Distributions based on Noisy Sorting
-firstpage: 3469
-lastpage: 3477
-page: 3469-3477
-order: 3469
+firstpage: 3472
+lastpage: 3480
+page: 3472-3480
+order: 3472
 cycles: false
 bibtex_editor: Dy, Jennifer and Krause, Andreas
 editor:

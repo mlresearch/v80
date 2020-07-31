@@ -21,10 +21,10 @@ abstract: 'We introduce the feasible arm identification problem, a pure explorat
 layout: inproceedings
 id: katz-samuels18a
 tex_title: Feasible Arm Identification
-firstpage: 2540
-lastpage: 2548
-page: 2540-2548
-order: 2540
+firstpage: 2535
+lastpage: 2543
+page: 2535-2543
+order: 2535
 cycles: false
 bibtex_editor: Dy, Jennifer and Krause, Andreas
 editor:

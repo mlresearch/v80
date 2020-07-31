@@ -23,10 +23,10 @@ abstract: We analyze the variance of stochastic gradients along negative curvatu
 layout: inproceedings
 id: daneshmand18a
 tex_title: Escaping Saddles with Stochastic Gradients
-firstpage: 1163
-lastpage: 1172
-page: 1163-1172
-order: 1163
+firstpage: 1155
+lastpage: 1164
+page: 1155-1164
+order: 1155
 cycles: false
 bibtex_editor: Dy, Jennifer and Krause, Andreas
 editor:

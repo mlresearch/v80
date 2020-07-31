@@ -22,10 +22,10 @@ abstract: We propose NetGAN - the first implicit generative model for graphs abl
 layout: inproceedings
 id: bojchevski18a
 tex_title: "{N}et{GAN}: Generating Graphs via Random Walks"
-firstpage: 609
-lastpage: 618
-page: 609-618
-order: 609
+firstpage: 610
+lastpage: 619
+page: 610-619
+order: 610
 cycles: false
 bibtex_editor: Dy, Jennifer and Krause, Andreas
 editor:

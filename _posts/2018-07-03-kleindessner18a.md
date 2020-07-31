@@ -22,10 +22,10 @@ abstract: Most existing works on crowdsourcing assume that the workers follow th
 layout: inproceedings
 id: kleindessner18a
 tex_title: Crowdsourcing with Arbitrary Adversaries
-firstpage: 2713
-lastpage: 2722
-page: 2713-2722
-order: 2713
+firstpage: 2708
+lastpage: 2717
+page: 2708-2717
+order: 2708
 cycles: false
 bibtex_editor: Dy, Jennifer and Krause, Andreas
 editor:

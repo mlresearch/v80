@@ -28,10 +28,10 @@ abstract: We study the problem of off-policy evaluation (OPE) in reinforcement l
 layout: inproceedings
 id: farajtabar18a
 tex_title: More Robust Doubly Robust Off-policy Evaluation
-firstpage: 1446
-lastpage: 1455
-page: 1446-1455
-order: 1446
+firstpage: 1447
+lastpage: 1456
+page: 1447-1456
+order: 1447
 cycles: false
 bibtex_editor: Dy, Jennifer and Krause, Andreas
 editor:

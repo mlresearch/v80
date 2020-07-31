@@ -26,10 +26,10 @@ abstract: We revisit the problem of solving two-player zero-sum games in the dec
 layout: inproceedings
 id: kangarshahi18a
 tex_title: 'Let’s be Honest: An Optimal No-Regret Framework for Zero-Sum Games'
-firstpage: 2493
-lastpage: 2501
-page: 2493-2501
-order: 2493
+firstpage: 2488
+lastpage: 2496
+page: 2488-2496
+order: 2488
 cycles: false
 bibtex_editor: Dy, Jennifer and Krause, Andreas
 editor:

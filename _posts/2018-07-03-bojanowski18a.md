@@ -24,10 +24,10 @@ abstract: 'Generative Adversarial Networks (GANs) have achieved remarkable resul
 layout: inproceedings
 id: bojanowski18a
 tex_title: Optimizing the Latent Space of Generative Networks
-firstpage: 599
-lastpage: 608
-page: 599-608
-order: 599
+firstpage: 600
+lastpage: 609
+page: 600-609
+order: 600
 cycles: false
 bibtex_editor: Dy, Jennifer and Krause, Andreas
 editor:

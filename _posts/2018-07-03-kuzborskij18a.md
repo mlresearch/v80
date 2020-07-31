@@ -25,10 +25,10 @@ abstract: We establish a data-dependent notion of algorithmic stability for Stoc
 layout: inproceedings
 id: kuzborskij18a
 tex_title: Data-Dependent Stability of Stochastic Gradient Descent
-firstpage: 2820
-lastpage: 2829
-page: 2820-2829
-order: 2820
+firstpage: 2815
+lastpage: 2824
+page: 2815-2824
+order: 2815
 cycles: false
 bibtex_editor: Dy, Jennifer and Krause, Andreas
 editor:

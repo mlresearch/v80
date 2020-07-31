@@ -27,10 +27,10 @@ abstract: We present a new method of blackbox optimization via gradient approxim
 layout: inproceedings
 id: choromanski18a
 tex_title: Structured Evolution with Compact Architectures for Scalable Policy Optimization
-firstpage: 969
-lastpage: 977
-page: 969-977
-order: 969
+firstpage: 970
+lastpage: 978
+page: 970-978
+order: 970
 cycles: false
 bibtex_editor: Dy, Jennifer and Krause, Andreas
 editor:
@@ -39,7 +39,7 @@ editor:
 - given: Andreas
   family: Krause
 bibtex_author: Choromanski, Krzysztof and Rowland, Mark and Sindhwani, Vikas and Turner,
-  Richard E. and Weller, Adrian
+  Richard and Weller, Adrian
 author:
 - given: Krzysztof
   family: Choromanski
@@ -47,7 +47,7 @@ author:
   family: Rowland
 - given: Vikas
   family: Sindhwani
-- given: Richard E.
+- given: Richard
   family: Turner
 - given: Adrian
   family: Weller

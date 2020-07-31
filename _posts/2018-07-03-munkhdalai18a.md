@@ -21,10 +21,10 @@ abstract: We describe a mechanism by which artificial neural networks can learn 
 layout: inproceedings
 id: munkhdalai18a
 tex_title: Rapid Adaptation with Conditionally Shifted Neurons
-firstpage: 3661
-lastpage: 3670
-page: 3661-3670
-order: 3661
+firstpage: 3664
+lastpage: 3673
+page: 3664-3673
+order: 3664
 cycles: false
 bibtex_editor: Dy, Jennifer and Krause, Andreas
 editor:

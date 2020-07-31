@@ -1,5 +1,5 @@
 ---
-title: Inductive Two-layer Modeling with Parametric Bregman Transfer
+title: Inductive Two-Layer Modeling with Parametric Bregman Transfer
 booktitle: Proceedings of the 35th International Conference on Machine Learning
 year: '2018'
 volume: '80'
@@ -21,11 +21,11 @@ abstract: Latent prediction models, exemplified by multi-layer networks, employ 
   offers an order of magnitude speedup over SDP with constant approximation guarantees.
 layout: inproceedings
 id: ganapathiraman18a
-tex_title: Inductive Two-layer Modeling with Parametric {B}regman Transfer
-firstpage: 1622
-lastpage: 1631
-page: 1622-1631
-order: 1622
+tex_title: Inductive Two-Layer Modeling with Parametric {B}regman Transfer
+firstpage: 1636
+lastpage: 1645
+page: 1636-1645
+order: 1636
 cycles: false
 bibtex_editor: Dy, Jennifer and Krause, Andreas
 editor:

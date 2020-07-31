@@ -25,10 +25,10 @@ abstract: We address the problem of finding influential training samples for a p
 layout: inproceedings
 id: sharchilev18a
 tex_title: Finding Influential Training Samples for Gradient Boosted Decision Trees
-firstpage: 4584
-lastpage: 4592
-page: 4584-4592
-order: 4584
+firstpage: 4577
+lastpage: 4585
+page: 4577-4585
+order: 4577
 cycles: false
 bibtex_editor: Dy, Jennifer and Krause, Andreas
 editor:

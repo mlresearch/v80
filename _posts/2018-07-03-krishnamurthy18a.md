@@ -22,10 +22,10 @@ abstract: This paper studies semiparametric contextual bandits, a generalization
 layout: inproceedings
 id: krishnamurthy18a
 tex_title: Semiparametric Contextual Bandits
-firstpage: 2781
-lastpage: 2790
-page: 2781-2790
-order: 2781
+firstpage: 2776
+lastpage: 2785
+page: 2776-2785
+order: 2776
 cycles: false
 bibtex_editor: Dy, Jennifer and Krause, Andreas
 editor:

@@ -24,10 +24,10 @@ abstract: 'Block-coordinate descent algorithms and alternating minimization meth
 layout: inproceedings
 id: diakonikolas18a
 tex_title: Alternating Randomized Block Coordinate Descent
-firstpage: 1232
-lastpage: 1240
-page: 1232-1240
-order: 1232
+firstpage: 1224
+lastpage: 1232
+page: 1224-1232
+order: 1224
 cycles: false
 bibtex_editor: Dy, Jennifer and Krause, Andreas
 editor:

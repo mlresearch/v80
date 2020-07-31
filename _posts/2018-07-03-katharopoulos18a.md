@@ -24,10 +24,10 @@ abstract: 'Deep Neural Network training spends most of the computation on exampl
 layout: inproceedings
 id: katharopoulos18a
 tex_title: 'Not All Samples Are Created Equal: Deep Learning with Importance Sampling'
-firstpage: 2530
-lastpage: 2539
-page: 2530-2539
-order: 2530
+firstpage: 2525
+lastpage: 2534
+page: 2525-2534
+order: 2525
 cycles: false
 bibtex_editor: Dy, Jennifer and Krause, Andreas
 editor:

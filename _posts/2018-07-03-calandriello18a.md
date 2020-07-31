@@ -1,5 +1,5 @@
 ---
-title: Improved Large-Scale Graph Learning through Ridge Spectral Sparsification
+title: Improved large-scale graph learning through ridge spectral sparsification
 booktitle: Proceedings of the 35th International Conference on Machine Learning
 year: '2018'
 volume: '80'
@@ -25,11 +25,11 @@ abstract: The representation and learning benefits of methods based on graph Lap
   co-purchase graph and compare to the state-of-the-art heuristics.
 layout: inproceedings
 id: calandriello18a
-tex_title: Improved Large-Scale Graph Learning through Ridge Spectral Sparsification
-firstpage: 687
-lastpage: 696
-page: 687-696
-order: 687
+tex_title: Improved large-scale graph learning through ridge spectral sparsification
+firstpage: 688
+lastpage: 697
+page: 688-697
+order: 688
 cycles: false
 bibtex_editor: Dy, Jennifer and Krause, Andreas
 editor:
@@ -37,15 +37,15 @@ editor:
   family: Dy
 - given: Andreas
   family: Krause
-bibtex_author: Calandriello, Daniele and Koutis, Ioannis and Lazaric, Alessandro and
+bibtex_author: Calandriello, Daniele and Lazaric, Alessandro and Koutis, Ioannis and
   Valko, Michal
 author:
 - given: Daniele
   family: Calandriello
-- given: Ioannis
-  family: Koutis
 - given: Alessandro
   family: Lazaric
+- given: Ioannis
+  family: Koutis
 - given: Michal
   family: Valko
 date: 2018-07-03

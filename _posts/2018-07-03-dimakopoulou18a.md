@@ -21,10 +21,10 @@ abstract: We consider a team of reinforcement learning agents that concurrently 
 layout: inproceedings
 id: dimakopoulou18a
 tex_title: Coordinated Exploration in Concurrent Reinforcement Learning
-firstpage: 1270
-lastpage: 1278
-page: 1270-1278
-order: 1270
+firstpage: 1271
+lastpage: 1279
+page: 1271-1279
+order: 1271
 cycles: false
 bibtex_editor: Dy, Jennifer and Krause, Andreas
 editor:

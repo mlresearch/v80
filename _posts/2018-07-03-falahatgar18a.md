@@ -9,21 +9,21 @@ month: 0
 publisher: PMLR
 pdf: http://proceedings.mlr.press/v80/falahatgar18a/falahatgar18a.pdf
 url: http://proceedings.mlr.press/v80/falahatgar2018a.html
-abstract: 'We present a comprehensive understanding of three important problemsin
-  PAC preference learning: maximum selection (maxing), ranking, andestimating <em>all</em>
-  pairwise preference probabilities, in theadaptive setting. With just Weak Stochastic
-  Transitivity, we show thatmaxing requires $\Omega(n^2)$ comparisons and with slightly
-  morerestrictive Medium Stochastic Transitivity, we present a linearcomplexity maxing
-  algorithm. With Strong Stochastic Transitivity andStochastic Triangle Inequality,
-  we derive a ranking algorithm withoptimal $\mathcal{O}(n\log n)$ complexity and
-  an optimal algorithmthat estimates all pairwise preference probabilities.'
+abstract: 'We present a comprehensive understanding of three important problems in
+  PAC preference learning: maximum selection (maxing), ranking, and estimating <em>all</em>
+  pairwise preference probabilities, in the adaptive setting. With just Weak Stochastic
+  Transitivity, we show that maxing requires $\Omega(n^2)$ comparisons and with slightly
+  more restrictive Medium Stochastic Transitivity, we present a linear complexity
+  maxing algorithm. With Strong Stochastic Transitivity and Stochastic Triangle Inequality,
+  we derive a ranking algorithm with optimal $\mathcal{O}(n\log n)$ complexity and
+  an optimal algorithm that estimates all pairwise preference probabilities.'
 layout: inproceedings
 id: falahatgar18a
 tex_title: The Limits of Maxing, Ranking, and Preference Learning
-firstpage: 1426
-lastpage: 1435
-page: 1426-1435
-order: 1426
+firstpage: 1427
+lastpage: 1436
+page: 1427-1436
+order: 1427
 cycles: false
 bibtex_editor: Dy, Jennifer and Krause, Andreas
 editor:

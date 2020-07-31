@@ -23,10 +23,10 @@ layout: inproceedings
 id: skerry-ryan18a
 tex_title: Towards End-to-End Prosody Transfer for Expressive Speech Synthesis with
   Tacotron
-firstpage: 4700
-lastpage: 4709
-page: 4700-4709
-order: 4700
+firstpage: 4693
+lastpage: 4702
+page: 4693-4702
+order: 4693
 cycles: false
 bibtex_editor: Dy, Jennifer and Krause, Andreas
 editor:

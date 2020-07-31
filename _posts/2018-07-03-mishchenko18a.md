@@ -22,10 +22,10 @@ abstract: Distributed learning aims at computing high-quality models by training
 layout: inproceedings
 id: mishchenko18a
 tex_title: A Delay-tolerant Proximal-Gradient Algorithm for Distributed Learning
-firstpage: 3584
-lastpage: 3592
-page: 3584-3592
-order: 3584
+firstpage: 3587
+lastpage: 3595
+page: 3587-3595
+order: 3587
 cycles: false
 bibtex_editor: Dy, Jennifer and Krause, Andreas
 editor:

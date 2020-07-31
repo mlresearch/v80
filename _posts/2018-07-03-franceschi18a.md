@@ -14,7 +14,7 @@ abstract: We introduce a framework based on bilevel programming that unifies gra
   of the bilevel problem can be solved by taking into explicit account the optimization
   dynamics for the inner objective. Depending on the specific setting, the outer variables
   take either the meaning of hyperparameters in a supervised learning problem or parameters
-  of a meta-learner.We provide sufficient conditions under which solutions of the
+  of a meta-learner. We provide sufficient conditions under which solutions of the
   approximate problem converge to those of the exact problem. We instantiate our approach
   for meta-learning in the case of deep learning where representation layers are treated
   as hyperparameters shared across a set of training episodes. In experiments, we
@@ -23,10 +23,10 @@ abstract: We introduce a framework based on bilevel programming that unifies gra
 layout: inproceedings
 id: franceschi18a
 tex_title: Bilevel Programming for Hyperparameter Optimization and Meta-Learning
-firstpage: 1563
-lastpage: 1572
-page: 1563-1572
-order: 1563
+firstpage: 1568
+lastpage: 1577
+page: 1568-1577
+order: 1568
 cycles: false
 bibtex_editor: Dy, Jennifer and Krause, Andreas
 editor:

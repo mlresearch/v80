@@ -25,10 +25,10 @@ abstract: Ordinary differential equations, and in general a dynamical system vie
 layout: inproceedings
 id: kolarijani18a
 tex_title: 'Fast Gradient-Based Methods with Exponential Rate: A Hybrid Control Framework'
-firstpage: 2733
-lastpage: 2741
-page: 2733-2741
-order: 2733
+firstpage: 2728
+lastpage: 2736
+page: 2728-2736
+order: 2728
 cycles: false
 bibtex_editor: Dy, Jennifer and Krause, Andreas
 editor:

@@ -1,5 +1,5 @@
 ---
-title: Born-Again Neural Networks
+title: Born Again Neural Networks
 booktitle: Proceedings of the 35th International Conference on Machine Learning
 year: '2018'
 volume: '80'
@@ -25,11 +25,11 @@ abstract: 'Knowledge Distillation (KD) consists of transferring “knowledge” 
   and non-predicted classes.'
 layout: inproceedings
 id: furlanello18a
-tex_title: Born-Again Neural Networks
-firstpage: 1602
-lastpage: 1611
-page: 1602-1611
-order: 1602
+tex_title: Born Again Neural Networks
+firstpage: 1607
+lastpage: 1616
+page: 1607-1616
+order: 1607
 cycles: false
 bibtex_editor: Dy, Jennifer and Krause, Andreas
 editor:

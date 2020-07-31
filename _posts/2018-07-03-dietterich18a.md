@@ -25,10 +25,10 @@ layout: inproceedings
 id: dietterich18a
 tex_title: Discovering and Removing Exogenous State Variables and Rewards for Reinforcement
   Learning
-firstpage: 1261
-lastpage: 1269
-page: 1261-1269
-order: 1261
+firstpage: 1262
+lastpage: 1270
+page: 1262-1270
+order: 1262
 cycles: false
 bibtex_editor: Dy, Jennifer and Krause, Andreas
 editor:

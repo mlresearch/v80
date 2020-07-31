@@ -14,12 +14,12 @@ abstract: Many tasks in machine learning and data mining, such as data diversifi
   small but representative summary from a massive dataset. Often, such problems can
   be posed as maximizing a submodular set function subject to a cardinality constraint.
   We consider this question in the streaming setting, where elements arrive over time
-  at a fast pace and thuswe need to design an efficient, low-memory algorithm. One
+  at a fast pace and thus we need to design an efficient, low-memory algorithm. One
   such method, proposed by Badanidiyuru et al. (2014), always finds a 0.5-approximate
   solution. Can this approximation factor be improved? We answer this question affirmatively
   by designing a new algorithm Salsa for streaming submodular maximization. It is
   the first low-memory, singlepass algorithm that improves the factor 0.5, under the
-  natural assumption that elementsarrive in a random order. We also show that this
+  natural assumption that elements arrive in a random order. We also show that this
   assumption is necessary, i.e., that there is no such algorithm with better than
   0.5-approximation when elements arrive in arbitrary order. Our experiments demonstrate
   that Salsa significantly outperforms the state of the art in applications related
@@ -27,10 +27,10 @@ abstract: Many tasks in machine learning and data mining, such as data diversifi
 layout: inproceedings
 id: norouzi-fard18a
 tex_title: Beyond 1/2-Approximation for Submodular Maximization on Massive Data Streams
-firstpage: 3826
-lastpage: 3835
-page: 3826-3835
-order: 3826
+firstpage: 3829
+lastpage: 3838
+page: 3829-3838
+order: 3829
 cycles: false
 bibtex_editor: Dy, Jennifer and Krause, Andreas
 editor:

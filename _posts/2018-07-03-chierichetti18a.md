@@ -25,10 +25,10 @@ abstract: The classical Multinomial Logit (MNL) is a behavioral model for user c
 layout: inproceedings
 id: chierichetti18a
 tex_title: Learning a Mixture of Two Multinomial Logits
-firstpage: 960
-lastpage: 968
-page: 960-968
-order: 960
+firstpage: 961
+lastpage: 969
+page: 961-969
+order: 961
 cycles: false
 bibtex_editor: Dy, Jennifer and Krause, Andreas
 editor:

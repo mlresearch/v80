@@ -23,10 +23,10 @@ abstract: We consider the problem of discrete-time signal denoising, focusing on
 layout: inproceedings
 id: ostrovskii18a
 tex_title: Efficient First-Order Algorithms for Adaptive Signal Denoising
-firstpage: 3943
-lastpage: 3952
-page: 3943-3952
-order: 3943
+firstpage: 3946
+lastpage: 3955
+page: 3946-3955
+order: 3946
 cycles: false
 bibtex_editor: Dy, Jennifer and Krause, Andreas
 editor:

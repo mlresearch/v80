@@ -22,7 +22,7 @@ abstract: Sequential models achieve state-of-the-art results in audio, visual an
   We find that, for a constant number of parameters, large sparse networks perform
   better than small dense networks and this relationship holds past sparsity levels
   of more than 96%. The small number of weights in a Sparse WaveRNN makes it possible
-  to sample high-fidelity audio on a mobile phone CPU in real time.Finally, we describe
+  to sample high-fidelity audio on a mobile phone CPU in real time. Finally, we describe
   a new dependency scheme for sampling that lets us trade a constant number of non-local,
   distant dependencies for the ability to generate samples in batches. The Batch WaveRNN
   produces 8 samples per step without loss of quality and offers orthogonal ways of
@@ -30,10 +30,10 @@ abstract: Sequential models achieve state-of-the-art results in audio, visual an
 layout: inproceedings
 id: kalchbrenner18a
 tex_title: Efficient Neural Audio Synthesis
-firstpage: 2415
-lastpage: 2424
-page: 2415-2424
-order: 2415
+firstpage: 2410
+lastpage: 2419
+page: 2410-2419
+order: 2410
 cycles: false
 bibtex_editor: Dy, Jennifer and Krause, Andreas
 editor:

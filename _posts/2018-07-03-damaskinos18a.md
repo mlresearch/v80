@@ -33,10 +33,10 @@ abstract: 'Asynchronous distributed machine learning solutions have proven very 
 layout: inproceedings
 id: damaskinos18a
 tex_title: Asynchronous {B}yzantine Machine Learning (the case of {SGD})
-firstpage: 1153
-lastpage: 1162
-page: 1153-1162
-order: 1153
+firstpage: 1145
+lastpage: 1154
+page: 1145-1154
+order: 1145
 cycles: false
 bibtex_editor: Dy, Jennifer and Krause, Andreas
 editor:
@@ -44,13 +44,13 @@ editor:
   family: Dy
 - given: Andreas
   family: Krause
-bibtex_author: Damaskinos, Georgios and Mhamdi, El Mahdi El and Guerraoui, Rachid
+bibtex_author: Damaskinos, Georgios and El Mhamdi, El Mahdi and Guerraoui, Rachid
   and Patra, Rhicheek and Taziki, Mahsa
 author:
 - given: Georgios
   family: Damaskinos
-- given: El Mahdi El
-  family: Mhamdi
+- given: El Mahdi
+  family: El Mhamdi
 - given: Rachid
   family: Guerraoui
 - given: Rhicheek

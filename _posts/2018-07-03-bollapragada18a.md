@@ -25,10 +25,10 @@ abstract: The standard L-BFGS method relies on gradient approximations that are 
 layout: inproceedings
 id: bollapragada18a
 tex_title: A Progressive Batching L-{BFGS} Method for Machine Learning
-firstpage: 619
-lastpage: 628
-page: 619-628
-order: 619
+firstpage: 620
+lastpage: 629
+page: 620-629
+order: 620
 cycles: false
 bibtex_editor: Dy, Jennifer and Krause, Andreas
 editor:
@@ -36,16 +36,16 @@ editor:
   family: Dy
 - given: Andreas
   family: Krause
-bibtex_author: Bollapragada, Raghu and Mudigere, Dheevatsa and Nocedal, Jorge and
-  Shi, Hao-Jun Michael and Tang, Ping Tak Peter
+bibtex_author: Bollapragada, Raghu and Nocedal, Jorge and Mudigere, Dheevatsa and
+  Shi, Hao-Jun and Tang, Ping Tak Peter
 author:
 - given: Raghu
   family: Bollapragada
-- given: Dheevatsa
-  family: Mudigere
 - given: Jorge
   family: Nocedal
-- given: Hao-Jun Michael
+- given: Dheevatsa
+  family: Mudigere
+- given: Hao-Jun
   family: Shi
 - given: Ping Tak Peter
   family: Tang

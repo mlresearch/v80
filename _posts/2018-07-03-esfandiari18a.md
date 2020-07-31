@@ -21,10 +21,10 @@ abstract: The k-core decomposition is a fundamental primitive in many machine le
 layout: inproceedings
 id: esfandiari18a
 tex_title: Parallel and Streaming Algorithms for K-Core Decomposition
-firstpage: 1396
-lastpage: 1405
-page: 1396-1405
-order: 1396
+firstpage: 1397
+lastpage: 1406
+page: 1397-1406
+order: 1397
 cycles: false
 bibtex_editor: Dy, Jennifer and Krause, Andreas
 editor:

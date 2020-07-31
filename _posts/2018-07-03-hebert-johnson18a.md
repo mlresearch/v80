@@ -18,15 +18,16 @@ abstract: We develop and study multicalibration as a new measure of fairness in 
   in many settings this strong notion of protection from discrimination is provably
   attainable and aligned with the goal of obtaining accurate predictions. Along the
   way, we present algorithms for learning a multicalibrated predictor, study the computational
-  complexity of this task, and illustrate tight connections to the agnostic learningmodel.
+  complexity of this task, and illustrate tight connections to the agnostic learning
+  model.
 layout: inproceedings
 id: hebert-johnson18a
 tex_title: 'Multicalibration: Calibration for the ({C}omputationally-Identifiable)
   Masses'
-firstpage: 1944
-lastpage: 1953
-page: 1944-1953
-order: 1944
+firstpage: 1939
+lastpage: 1948
+page: 1939-1948
+order: 1939
 cycles: false
 bibtex_editor: Dy, Jennifer and Krause, Andreas
 editor:

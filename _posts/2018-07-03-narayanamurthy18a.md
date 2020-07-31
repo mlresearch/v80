@@ -24,10 +24,10 @@ abstract: Robust subspace tracking (RST) can be simply understood as a dynamic (
 layout: inproceedings
 id: narayanamurthy18a
 tex_title: Nearly Optimal Robust Subspace Tracking
-firstpage: 3698
-lastpage: 3706
-page: 3698-3706
-order: 3698
+firstpage: 3701
+lastpage: 3709
+page: 3701-3709
+order: 3701
 cycles: false
 bibtex_editor: Dy, Jennifer and Krause, Andreas
 editor:

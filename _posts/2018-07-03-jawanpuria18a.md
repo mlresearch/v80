@@ -21,10 +21,10 @@ abstract: We consider the problem of learning a low-rank matrix, constrained to 
 layout: inproceedings
 id: jawanpuria18a
 tex_title: A Unified Framework for Structured Low-rank Matrix Learning
-firstpage: 2259
-lastpage: 2268
-page: 2259-2268
-order: 2259
+firstpage: 2254
+lastpage: 2263
+page: 2254-2263
+order: 2254
 cycles: false
 bibtex_editor: Dy, Jennifer and Krause, Andreas
 editor:

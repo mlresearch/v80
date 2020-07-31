@@ -27,10 +27,10 @@ abstract: 'In the machine learning research community, it is generally believed 
 layout: inproceedings
 id: chatterjee18a
 tex_title: Learning and Memorization
-firstpage: 754
-lastpage: 762
-page: 754-762
-order: 754
+firstpage: 755
+lastpage: 763
+page: 755-763
+order: 755
 cycles: false
 bibtex_editor: Dy, Jennifer and Krause, Andreas
 editor:

@@ -20,10 +20,10 @@ abstract: Two methods are proposed for high-dimensional shape-constrained regres
 layout: inproceedings
 id: bonakdarpour18a
 tex_title: Prediction Rule Reshaping
-firstpage: 629
-lastpage: 637
-page: 629-637
-order: 629
+firstpage: 630
+lastpage: 638
+page: 630-638
+order: 630
 cycles: false
 bibtex_editor: Dy, Jennifer and Krause, Andreas
 editor:

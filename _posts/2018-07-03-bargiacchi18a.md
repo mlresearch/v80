@@ -25,10 +25,10 @@ layout: inproceedings
 id: bargiacchi18a
 tex_title: Learning to Coordinate with Coordination Graphs in Repeated Single-Stage
   Multi-Agent Decision Problems
-firstpage: 491
-lastpage: 499
-page: 491-499
-order: 491
+firstpage: 482
+lastpage: 490
+page: 482-490
+order: 482
 cycles: false
 bibtex_editor: Dy, Jennifer and Krause, Andreas
 editor:

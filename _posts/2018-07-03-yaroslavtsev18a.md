@@ -14,7 +14,7 @@ abstract: We present first massively parallel (MPC) algorithms and hardness of a
   results for computing Single-Linkage Clustering of n input d-dimensional vectors
   under Hamming, $\ell_1, \ell_2$ and $\ell_\infty$ distances. All our algorithms
   run in O(log n) rounds of MPC for any fixed d and achieve (1+\epsilon)-approximation
-  for all distances (except Hamming for which we show an exact algorithm).We also
+  for all distances (except Hamming for which we show an exact algorithm). We also
   show constant-factor inapproximability results for o(\log n)-round algorithms under
   standard MPC hardness assumptions (for sufficiently large dimension depending on
   the distance used). Efficiency of implementation of our algorithms in Apache Spark
@@ -24,10 +24,10 @@ layout: inproceedings
 id: yaroslavtsev18a
 tex_title: Massively Parallel Algorithms and Hardness for Single-Linkage Clustering
   under $\ell_p$ Distances
-firstpage: 5596
-lastpage: 5605
-page: 5596-5605
-order: 5596
+firstpage: 5600
+lastpage: 5609
+page: 5600-5609
+order: 5600
 cycles: false
 bibtex_editor: Dy, Jennifer and Krause, Andreas
 editor:

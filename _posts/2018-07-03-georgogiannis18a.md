@@ -27,10 +27,10 @@ abstract: This is a theoretical study on the sample complexity of dictionary lea
 layout: inproceedings
 id: georgogiannis18a
 tex_title: The Generalization Error of Dictionary Learning with Moreau Envelopes
-firstpage: 1710
-lastpage: 1718
-page: 1710-1718
-order: 1710
+firstpage: 1617
+lastpage: 1625
+page: 1617-1625
+order: 1617
 cycles: false
 bibtex_editor: Dy, Jennifer and Krause, Andreas
 editor:
