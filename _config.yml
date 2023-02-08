@@ -52,7 +52,7 @@ plugins:
 - jekyll-feed
 - jekyll-seo-tag
 - jekyll-remote-theme
-remote_theme: lawrennd/proceedings
+remote_theme: mlresearch/jekyll-theme
 permalink: "/:title.html"
 ghub:
   edit: true
