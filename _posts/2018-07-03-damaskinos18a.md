@@ -44,13 +44,13 @@ editor:
   family: Dy
 - given: Andreas
   family: Krause
-bibtex_author: Damaskinos, Georgios and El Mhamdi, El Mahdi and Guerraoui, Rachid
+bibtex_author: Damaskinos, Georgios and El-Mhamdi, El-Mahdi and Guerraoui, Rachid
   and Patra, Rhicheek and Taziki, Mahsa
 author:
 - given: Georgios
   family: Damaskinos
-- given: El Mahdi
-  family: El Mhamdi
+- given: El-Mahdi
+  family: El-Mhamdi
 - given: Rachid
   family: Guerraoui
 - given: Rhicheek
