@@ -1,0 +1,51 @@
+# pmlint posts — validate _posts YAML on correction PRs (published volumes)
+# Copy into a volume repository as .github/workflows/pmlint-posts.yml
+# Checks out latest mlresearch/papersite and runs `pmlint posts --check`.
+#
+# Prefer enabling this on the branch that holds `_posts/` (often gh-pages).
+# Path filter keeps this off the initial BibTeX/PDF submission path; it only
+# runs when `_posts/**` changes (or via workflow_dispatch).
+
+name: pmlint-posts
+
+on:
+  pull_request:
+    paths:
+      - "_posts/**"
+  workflow_dispatch:
+
+jobs:
+  check-posts:
+    if: >
+      startsWith(github.event.repository.name, 'v') ||
+      startsWith(github.event.repository.name, 'r') ||
+      github.event.repository.name == 'proceedings-template'
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout volume
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Checkout papersite tooling
+        uses: actions/checkout@v4
+        with:
+          repository: mlresearch/papersite
+          path: .papersite-tools
+
+      - name: Set up Ruby
+        uses: ruby/setup-ruby@v1
+        with:
+          ruby-version: "3.0"
+
+      - name: Run pmlint posts --check
+        env:
+          PAPERSITE_ROOT: ${{ github.workspace }}/.papersite-tools
+          PMLINT_SKIP_UPDATE: "1"
+        run: |
+          # Full tree on workflow_dispatch; PR path uses changed posts vs base
+          if [[ "${{ github.event_name }}" == "pull_request" ]]; then
+            bash "$PAPERSITE_ROOT/bin/pmlint" posts --check --changed --base "origin/${{ github.base_ref }}"
+          else
+            bash "$PAPERSITE_ROOT/bin/pmlint" posts --check
+          fi
