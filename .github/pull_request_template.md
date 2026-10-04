@@ -33,5 +33,7 @@ Proceedings editor's GitHub username: @
 
 > **Note on BibTeX files**: `.bib` files are not tracked in this repository and are not part of the rendered output. If you are trying to correct paper metadata, please edit the relevant file in `_posts/` instead.
 
+> **Note on pmlint**: Volume repositories may run a `pmlint` GitHub Actions check on pull requests. On published volumes (`gh-pages` present) that check skips automatically — intake lint is for pre-publication PRs only. On unpublished volumes, wait for the check to be green (or run `pmlint --check` locally).
+
 ## Additional Notes
-<!-- Add any other relevant information here --> 
+<!-- Add any other relevant information here -->
